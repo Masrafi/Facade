@@ -1,3 +1,3 @@
-class Shape{
-  void drow(){}
+abstract class Shape{
+  void drow();
 }
